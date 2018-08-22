@@ -1,3 +1,3 @@
 hello-world-servlet
 
-HelloWorld Servlet example with corresponding Dockerfile1
+HelloWorld Servlet example with corresponding Dockerfile
